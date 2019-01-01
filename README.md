@@ -1,2 +1,2 @@
 # geo
-aidea, under water checking 
+under w checking 
